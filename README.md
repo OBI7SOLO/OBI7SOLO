@@ -2,17 +2,22 @@
   <img src="assets/Final Banner.png" alt="Banner" width="100%"/>
 </div>
 
-# 🚀 Anderson Losada
+<table>
+  <tr>
+    <td width="60%" valign="center">
+      <h1>🚀 Anderson Losada</h1>
+      <p>
+        Full-stack developer dedicated to building robust solutions across mobile and web platforms. I thrive on exploring emerging technologies, solving complex problems, and continuously shipping projects that make an impact. Driven by curiosity and a drive for excellence, I'm always learning and improving.
+      </p>
+    </td>
+    <td width="40%" align="center" valign="center">
+      <!-- Added backup image for Socket.io since it's not in skillicons.dev, kept seamless look -->
+      <img src="https://skillicons.dev/icons?i=js,ts,kotlin,react,html,css,vite,redux,mui,styledcomponents,nodejs,express,mongodb,androidstudio,git,github,figma,postman,vscode,discord&theme=dark&perline=5" />
+    </td>
+  </tr>
+</table>
 
-Full-stack developer dedicated to building robust solutions across mobile and web platforms. I thrive on exploring emerging technologies, solving complex problems, and continuously shipping projects that make an impact. Driven by curiosity and a drive for excellence, I'm always learning and improving.
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=reactnative,expo,js,ts,react,kotlin,androidstudio,git,figma&theme=dark" />
-  </a>
-</p>
-
-## 📊 GitHub Stats
+## 💻 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=OBI7SOLO&show_icons=true&bg_color=000000&title_color=8A2BE2&text_color=FFFFFF&icon_color=99EEFF&ring_color=8A2BE2&hide_border=true" width="48%" />
