@@ -8,7 +8,7 @@
 <p>
   Full-stack developer dedicated to building robust solutions across mobile and web platforms. I thrive on exploring emerging technologies, solving complex problems, and continuously shipping projects that make an impact. Driven by curiosity and a drive for excellence, I'm always learning and improving.
 </p>
-<img src="https://media.giphy.com/media/sbUzYsxqx34I4Em0wO/giphy.gif" width="300" />
+<img src="https://media.giphy.com/media/sbUzYsxqx34I4Em0wO/giphy.gif" width="300" /> <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300" />
 <br clear="right"/>
 
 ## 💻 GitHub Stats
