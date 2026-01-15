@@ -4,8 +4,7 @@
 
 # 🚀 Anderson Losada
 
-Developer exploring different areas of software.
-I enjoy creating things, learning new technologies, and leveling up one project at a time.
+Full-stack developer dedicated to building robust solutions across mobile and web platforms. I thrive on exploring emerging technologies, solving complex problems, and continuously shipping projects that make an impact. Driven by curiosity and a drive for excellence, I'm always learning and improving.
 
 # ⚡ Skills
 
