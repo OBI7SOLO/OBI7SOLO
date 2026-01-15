@@ -2,20 +2,15 @@
   <img src="assets/Final Banner.png" alt="Banner" width="100%"/>
 </div>
 
-<table>
-  <tr>
-    <td width="60%" valign="center">
-      <h1>🚀 Anderson Losada</h1>
-      <p>
-        Full-stack developer dedicated to building robust solutions across mobile and web platforms. I thrive on exploring emerging technologies, solving complex problems, and continuously shipping projects that make an impact. Driven by curiosity and a drive for excellence, I'm always learning and improving.
-      </p>
-    </td>
-    <td width="40%" align="center" valign="center">
-      <!-- Added backup image for Socket.io since it's not in skillicons.dev, kept seamless look -->
-      <img src="https://skillicons.dev/icons?i=js,ts,kotlin,react,html,css,vite,redux,mui,styledcomponents,nodejs,express,mongodb,androidstudio,git,github,figma,postman,vscode,discord&theme=dark&perline=5" />
-    </td>
-  </tr>
-</table>
+<h1>🚀 Anderson Losada</h1>
+<p>
+  Full-stack developer dedicated to building robust solutions across mobile and web platforms. I thrive on exploring emerging technologies, solving complex problems, and continuously shipping projects that make an impact. Driven by curiosity and a drive for excellence, I'm always learning and improving.
+</p>
+
+<div align="center">
+  <!-- Added backup image for Socket.io since it's not in skillicons.dev, kept seamless look -->
+  <img src="https://skillicons.dev/icons?i=js,ts,kotlin,react,html,css,vite,redux,mui,styledcomponents,nodejs,express,mongodb,androidstudio,git,github,figma,postman,vscode,discord&theme=dark&perline=5" />
+</div>
 
 ## 💻 GitHub Stats
 
