@@ -18,23 +18,7 @@ Full-stack developer dedicated to building robust solutions across mobile and we
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=OBI7SOLO&show_icons=true&theme=dracula&hide_border=true)
-
-</div>
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.vercel.app/?user=OBI7SOLO&theme=dracula&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
-## 💻 Most Used Languages
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OBI7SOLO&layout=compact&theme=dracula&hide_border=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=OBI7SOLO&show_icons=true&theme=onedark&hide_border=true) [![GitHub Streak](https://streak-stats.vercel.app/?user=OBI7SOLO&theme=onedark&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
