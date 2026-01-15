@@ -6,8 +6,6 @@
 
 Full-stack developer dedicated to building robust solutions across mobile and web platforms. I thrive on exploring emerging technologies, solving complex problems, and continuously shipping projects that make an impact. Driven by curiosity and a drive for excellence, I'm always learning and improving.
 
-# ⚡ Skills
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=reactnative,expo,js,ts,react,kotlin,androidstudio,git,figma&theme=dark" />
