@@ -8,11 +8,11 @@ Full-stack developer dedicated to building robust solutions across mobile and we
 
 # ⚡ Skills
 
-<div align="center">
-
-[![Skill Icons](https://skillicons.dev/icons?i=reactnative,expo,js,ts,react,kotlin,androidstudio,git,figma&theme=dark)](https://skillicons.dev)
-
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=reactnative,expo,js,ts,react,kotlin,androidstudio,git,figma&theme=dark" />
+  </a>
+</p>
 
 ## 📊 GitHub Stats
 
