@@ -4,7 +4,7 @@
 
 <h1>🚀 Anderson Losada</h1>
 <!-- Added backup image for Socket.io since it's not in skillicons.dev, kept seamless look -->
-<img align="right" src="https://skillicons.dev/icons?i=js,ts,kotlin,react,html,css,vite,redux,mui,styledcomponents,nodejs,express,mongodb,androidstudio,git,github,figma,postman,vscode,discord&theme=dark&perline=5" width="43%" />
+<img align="right" src="https://skillicons.dev/icons?i=js,ts,kotlin,react,html,css,vite,redux,mui,styledcomponents,nodejs,express,mongodb,androidstudio,git,github,figma,postman,vscode,discord&theme=dark&perline=5" width="250" />
 <p>
   Full-stack developer dedicated to building robust solutions across mobile and web platforms. I thrive on exploring emerging technologies, solving complex problems, and continuously shipping projects that make an impact. Driven by curiosity and a drive for excellence, I'm always learning and improving.
 </p>
