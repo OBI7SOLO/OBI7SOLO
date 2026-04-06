@@ -14,7 +14,7 @@
 </p>
 <br clear="right"/>
 
-## 💻 GitHub Stats
+## Stats
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=OBI7SOLO&show_icons=true&bg_color=000000&title_color=8A2BE2&text_color=FFFFFF&icon_color=99EEFF&ring_color=8A2BE2&hide_border=true" width="48%" />
